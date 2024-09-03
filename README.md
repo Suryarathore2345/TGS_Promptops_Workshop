@@ -31,7 +31,7 @@ Web Browser (Chrome, Firefox, etc.)
 📥 Installation
 
 Clone the repository to your local machine:
-git clone https://github.com/your-username/arithmetic-calculator.git
+git clone https://github.com/Suryarathore2345/TGS_Promptops_Workshop
 cd arithmetic-calculator
 
 Install the required dependencies:
