@@ -1,5 +1,4 @@
-🧮 Arithmetic Calculator
-
+Calculator
 
 This project is an interactive Arithmetic Calculator created using HTML, CSS, JavaScript, and Python (Flask). It enables users to perform basic arithmetic operations like addition, subtraction, multiplication, and division right in their web browser. 🚀
 
